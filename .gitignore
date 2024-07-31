@@ -1,1 +1,3 @@
 .idea
+/twitch/.env
+/twitch/user_token.json
